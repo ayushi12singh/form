@@ -1,0 +1,24 @@
+body{
+    background: #84D1EF;
+}
+.top{
+    margin: 20px 300px;
+    padding: 20px;
+    background: #17282F;
+    color:  #84D1EF;
+}
+input{
+    height: 50px;
+    width: 500px;
+    background: #17282F;
+    color: grey;
+    border-bottom:solid 2px #84D1EF;
+    border-radius: 4px;
+}
+input:focus{
+    outline: white;
+}
+input[type=submit]{
+    color: white;
+    background: #84D1EF;
+}
